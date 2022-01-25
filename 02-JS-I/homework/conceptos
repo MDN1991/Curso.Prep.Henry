@@ -1,0 +1,12 @@
+    * Variables:
+                Son herramientas que se usan para poder guardar información. Se le asigna un nombre y despues se puede acceder
+                a la info que se guardo o modificarla segun necesidad.
+    * Strings:
+                Los strings son cadenas de caracteres que se representan en forma de texto. Sirve para poder interactuar con el usuario.
+    * Funciones (argumentos, `return`):
+                                        Una función es una parte del codigo que se crea con el fin de poder usarlo muchas veces para hacer algo en el programa.
+                                        Los argumentos son valores o variables con las que podemos trabajar dentro de una funcion.
+    * Declaraciones `if`:
+                        Los if son declaraciones de control de flujo que nos permite justamente lo mencionado anteriormente.. controlar el flujo del codigo.
+    * Valores booleanos (`true`, `false`):
+                                        Los valores booleanos son dos "verdadero" y "falso". Nos permiten manejar el flujo del codigo.
