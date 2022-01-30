@@ -1,0 +1,15 @@
+for: El for es un bucle que repite un codigo hasta que deja de cumplirse una condición. Consta de tres partes al declararlo
+mas el codigo que se va a ejecutar. 
+for (A ; B; C){
+    codigo a ejecutar
+}; 
+A: Variable que se controlará.
+B: Condición que se debe cumplir para ejecutar el codigo.
+C: Como se incremenara la variable "A".
+
+Operadores Logicos:
+Son operadores que se usan para saber el valor verdad de una propoción compuesta.
+Una propoción es una declaración de la cual podemos verificar su valor. (true, false..verdad, mentira..)
+"&&" and : Este operador devuelve true cuando ambas propociciones son true. 
+"||" or : Este operador devuelve true cuando almenos una de las dos propociciones es verdad, devuelve false solo cuando ambas son false.
+"!" not : Es la negación, cuando se lo usa invierte el valor booleano. 
